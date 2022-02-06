@@ -3,6 +3,7 @@
 		{
 			font-family:cursive;
 			/*background-color:white;*/
+			/*background-image:repeating-linear-gradient(lightyellow,lightsalmon);*/
 		}
 
 		h1
@@ -76,6 +77,7 @@
 			/*background: #00b7ea;*/
 			height:100px;
 			clear: both;
+			/*background-image:linear-gradient(navajowhite,lightsalmon);*/
 		}
 
 		a:link
@@ -116,6 +118,17 @@
 			padding-right:2px;
 			text-align:left;
 		}*/
+
+		button
+		{
+			background-color:lightsalmon;
+			font-family:cursive;
+			text-align:center;
+			display:inline-block;
+			border-radius:50%;
+		}
+
+		
 
 		
 
